@@ -1,0 +1,14 @@
+/Users/bencastillo/Projects/Core/Core/bin/Debug/netcoreapp2.2/Core.deps.json
+/Users/bencastillo/Projects/Core/Core/bin/Debug/netcoreapp2.2/Core.runtimeconfig.json
+/Users/bencastillo/Projects/Core/Core/bin/Debug/netcoreapp2.2/Core.runtimeconfig.dev.json
+/Users/bencastillo/Projects/Core/Core/bin/Debug/netcoreapp2.2/Core.dll
+/Users/bencastillo/Projects/Core/Core/bin/Debug/netcoreapp2.2/Core.pdb
+/Users/bencastillo/Projects/Core/Core/obj/Debug/netcoreapp2.2/Core.csprojAssemblyReference.cache
+/Users/bencastillo/Projects/Core/Core/obj/Debug/netcoreapp2.2/Core.csproj.CoreCompileInputs.cache
+/Users/bencastillo/Projects/Core/Core/obj/Debug/netcoreapp2.2/Core.RazorAssemblyInfo.cache
+/Users/bencastillo/Projects/Core/Core/obj/Debug/netcoreapp2.2/Core.RazorAssemblyInfo.cs
+/Users/bencastillo/Projects/Core/Core/obj/Debug/netcoreapp2.2/Core.AssemblyInfoInputs.cache
+/Users/bencastillo/Projects/Core/Core/obj/Debug/netcoreapp2.2/Core.AssemblyInfo.cs
+/Users/bencastillo/Projects/Core/Core/obj/Debug/netcoreapp2.2/Core.RazorTargetAssemblyInfo.cache
+/Users/bencastillo/Projects/Core/Core/obj/Debug/netcoreapp2.2/Core.dll
+/Users/bencastillo/Projects/Core/Core/obj/Debug/netcoreapp2.2/Core.pdb
